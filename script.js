@@ -14,8 +14,7 @@ function toggleMode() {
   } else {
     img.setAttribute("src", "./assets/avatar.png")
   }
-
-  function work() {
-    alert("Em construção")
-  }
+}
+function work() {
+  alert("Em construção")
 }
